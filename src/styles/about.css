@@ -1,0 +1,18 @@
+.learn-more-btn {
+    background-color: #616161;
+    font-family: "Quicksand", sans-serif;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 15px 2px 30px;
+    cursor: pointer;
+    border: 1px solid #b8142d;
+    background-image: linear-gradient(#7e7e7e, #616161, #7e7e7e);
+}
+
+

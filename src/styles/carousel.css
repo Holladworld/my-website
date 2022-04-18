@@ -1,0 +1,12 @@
+.carousel-button {
+  border-radius: 50%;
+}
+
+.carousel-button:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#carousel {
+  width: 500px;
+}

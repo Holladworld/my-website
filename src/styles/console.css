@@ -1,0 +1,79 @@
+body.hubpage {
+    background-color: #000; /* Dark background for HubPage */
+    color: white;
+    height: 100%; /* Text color for HubPage */
+  }
+
+.hubpage-container {
+    background-color: #000;
+    color: white;
+    height: 400%;
+}
+
+.hubpage-footer {
+    background-color: #000;
+    color: white;
+    height: 400%;
+}
+  
+.hubpage-header {
+    padding: 5px;
+}
+  
+.hubpage-content {
+    flex: 1;
+    padding: 5px;
+    overflow-y: auto; /* Enable scrolling if content overflows */
+}
+  
+  /* Style for the console animation text */
+
+  
+#console {
+    font-family: courier, monospace;
+    font-size: 14px;
+    height: 500%;
+    width: 750px;
+    margin: 100px auto;
+}
+
+a {
+    color: #0f0;
+    text-decoration: none;
+}
+
+#op {
+    color: #888888; /* Gray color for special text */
+}
+
+/* Styling for specific span IDs */
+#a {
+    color: #0f0; /* Green color for text inside span with id "a" */
+}
+
+#b {
+    color: #ff0096; /* Pink color for text inside span with id "b" */
+}
+
+#c {
+    color: #0bc; /* Light blue color for text inside span with id "c" */
+}
+
+#k {
+    animation: change 1s;
+}
+
+/* Animation keyframes */
+@keyframes change {
+    0% { color: #0f0; }
+    50% { color: #0f0; }
+    99% { color: white; }
+}
+
+#w {
+    color: #ffffff;
+    text-decoration: bold; 
+}
+#z {
+    color: #8400ff; 
+}
