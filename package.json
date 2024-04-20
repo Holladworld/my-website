@@ -1,6 +1,6 @@
 {
   "name": "my-website",
-  "homepage": "https://holladworld.github.io/my-website",
+  "homepage": "https://holladworld.github.io/my-website/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,6 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.24.1",
     "babel-preset-react-app": "^10.0.1",
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
