@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/holladworld/my-website/static/css/main.b3ebb7e1.css",
-    "main.js": "/holladworld/my-website/static/js/main.d77558c3.js",
-    "static/media/t2.jpg": "/holladworld/my-website/static/media/t2.31ab9cd21af58218b8de.jpg",
-    "static/media/headshot.jpg": "/holladworld/my-website/static/media/headshot.50d9fd80466d67a00adf.jpg",
-    "static/media/ResumeWebsite.pdf": "/holladworld/my-website/static/media/ResumeWebsite.4984d07ee1f0178a9715.pdf",
-    "index.html": "/holladworld/my-website/index.html",
-    "main.b3ebb7e1.css.map": "/holladworld/my-website/static/css/main.b3ebb7e1.css.map",
-    "main.d77558c3.js.map": "/holladworld/my-website/static/js/main.d77558c3.js.map"
+    "main.css": "/my-website/static/css/main.9ecd1799.css",
+    "main.js": "/my-website/static/js/main.1e3fc148.js",
+    "static/media/t2.jpg": "/my-website/static/media/t2.31ab9cd21af58218b8de.jpg",
+    "static/media/headshot.jpg": "/my-website/static/media/headshot.50d9fd80466d67a00adf.jpg",
+    "static/media/ResumeWebsite.pdf": "/my-website/static/media/ResumeWebsite.4984d07ee1f0178a9715.pdf",
+    "index.html": "/my-website/index.html",
+    "main.9ecd1799.css.map": "/my-website/static/css/main.9ecd1799.css.map",
+    "main.1e3fc148.js.map": "/my-website/static/js/main.1e3fc148.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3ebb7e1.css",
-    "static/js/main.d77558c3.js"
+    "static/css/main.9ecd1799.css",
+    "static/js/main.1e3fc148.js"
   ]
 }
