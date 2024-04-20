@@ -1,6 +1,6 @@
 {
   "name": "my-website",
-  "homepage": "https://github.com/holladworld/my-website",
+  "homepage": "https://holladworld.github.io/my-website",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
